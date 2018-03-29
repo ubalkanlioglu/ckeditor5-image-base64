@@ -1,0 +1,49 @@
+{
+  "_from": "ckeditor5-typescript",
+  "_id": "ckeditor5-typescript@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-VBPmnKzi0qOIv1te6ik4IJ4REqTUeWkaciIJnmY7U9dlxtLUgSRki58M9xnEE3urWws/qaSi+8Fo25dNDOx4UA==",
+  "_location": "/ckeditor5-typescript",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ckeditor5-typescript",
+    "name": "ckeditor5-typescript",
+    "escapedName": "ckeditor5-typescript",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ckeditor5-typescript/-/ckeditor5-typescript-1.0.3.tgz",
+  "_shasum": "70e21b6a1d9ab81fe8e70cb86ed39dcb7dc4ad71",
+  "_spec": "ckeditor5-typescript",
+  "_where": "C:\\Users\\Ulas.Balkanioglu\\Documents\\GitHub\\ckeditor5-base64-image",
+  "author": {
+    "name": "ulas balkanlioglu",
+    "email": "ubalkanlioglu@gmail.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@ckeditor/ckeditor5-editor-classic": "^1.0.0-alpha.2",
+    "@ckeditor/ckeditor5-image": "^1.0.0-alpha.2",
+    "@ckeditor/ckeditor5-upload": "^1.0.0-alpha.2"
+  },
+  "deprecated": false,
+  "description": "A ckeditor5 typescript migration",
+  "keywords": [
+    "ckeditor5",
+    "typescript"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "ckeditor5-typescript",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}
